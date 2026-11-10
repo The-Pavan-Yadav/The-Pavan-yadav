@@ -1,8 +1,18 @@
+<div align="center">
+
 # Pavan Jala
+### `Systems Architecture` &bull; `Cybersecurity` &bull; `Full-Stack Engineering`
 
-Cybersecurity undergraduate at **VIT-AP University** and full-stack software developer. Focused on building resilient web systems, secure API architectures, and scalable cloud applications.
+**B.Tech Computer Science & Engineering (Cybersecurity) @ VIT-AP University**  
+*1st Prize Winner — VIT-AP SustainX Hackathon (Team Eco Forge)*
 
-[Portfolio](https://pavanyadav.is-a.dev/) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/pavan-jala-a8614a322) &nbsp;•&nbsp; [GitHub](https://github.com/The-Pavan-Yadav)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pavanyadav.is--a.dev-0969da?style=flat-square&logo=googlechrome&logoColor=white)](https://pavanyadav.is-a.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pavan--jala-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-jala-a8614a322)
+[![GitHub](https://img.shields.io/badge/GitHub-The--Pavan--Yadav-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/The-Pavan-Yadav)
+
+</div>
 
 ---
 
@@ -10,7 +20,7 @@ Cybersecurity undergraduate at **VIT-AP University** and full-stack software dev
 
 - **Education**: B.Tech in Computer Science and Engineering (Cybersecurity Specialization), VIT-AP University.
 - **Hackathon Achievement**: 1st Prize Winner at **VIT-AP SustainX Hackathon** (Team *Eco Forge*).
-- **Core Competencies**: Full-stack web engineering, secure software lifecycle (SSDLC), authentication & authorization systems, and RESTful service design.
+- **Core Competencies**: Full-stack web engineering, secure software development lifecycle (SSDLC), authentication & authorization systems, and RESTful service design.
 
 ---
 
